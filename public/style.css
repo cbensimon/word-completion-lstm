@@ -1,0 +1,23 @@
+.inputs {
+	width: 500px;
+	margin: 150px auto;
+	position: relative;
+}
+
+input {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 40px;
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#main-input {
+	background: transparent;
+}
+
+#back-input {
+	color: rgb(180,180,180);
+}
